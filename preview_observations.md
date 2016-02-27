@@ -16,7 +16,7 @@ Please bear in mind I'm almost exclusively viewing 10Cv4 via my Android phone's 
 
 ### Avatar & Menu:
 
-* **Broken again:** I cannot change my avatar after one successful change earlier today.  The top-right dropdown menu fails to appear; the Profile image upload fails, displaying a broken image placeholder.  Only deleting browser history allowed the new avatar to show up.
+* **Fixed again:** I cannot change my avatar after one successful change earlier today.  The top-right dropdown menu fails to appear; the Profile image upload fails, displaying a broken image placeholder.  Only deleting browser history allowed the new avatar to show up.
 
 ---
 
