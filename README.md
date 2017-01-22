@@ -10,7 +10,7 @@ There's a site blog, the earliest post is perhaps the best place to start: [http
 
 ## A list of apps:
 
-[**The list**](../../wiki), for which I'd appreciate help in both compiling and updating!
+[**The list**](../../wiki/App-list), for which I'd appreciate help in both compiling and updating!
 
 ## My preview observations:
 
