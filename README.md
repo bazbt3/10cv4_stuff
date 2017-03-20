@@ -1,14 +1,10 @@
-## 10cv4_stuff
+## What is 10Centuries.org?
 
-Stuff related to Jason Irwin's 10centuries.org social platform.
+[**https://10centuries.org/**](https://10centuries.org/) (aka 10C) is a web social and publishing platform.
 
-## What is 10Cv4?
+Here's [**a link to my Wiki**](../../wiki/) - a bit of history, an app list, Markdown help, etc.
 
-[**https://10centuries.org/**](https://10centuries.org/) is a web social and publishing platform with an interesting concept; the user owns the data, the service has the lofty goal of preserving said data for 10 centuries.  It's not my job to sell stuff, the service speaks for itself.
-
-There's Jason's site blog, the earliest post is perhaps the best place to start: [https://blog.10centuries.org/2016/01/26/happy-new-year](https://blog.10centuries.org/2016/01/26/happy-new-year)
-
-Here's [**a link to my Wiki**](../../wiki/) - an app list, Markdown help, etc.
+---
 
 ## My preview observations:
 
